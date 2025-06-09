@@ -8,4 +8,4 @@ Quando duas cartas com o mesmo valor são viradas, elas ficam viradas para cima.
 O objetivo é encontrar todos os pares de cartas.
 
 Ajudas para o projeto:
-IA chat gpt: Me Ajude a montar um projeto agrinho
+IA chat gpt: Me Ajude a montar um projeto
